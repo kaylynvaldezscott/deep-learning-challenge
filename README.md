@@ -37,4 +37,5 @@ The below photos show work from Attempt One, Two and Three with accuracy results
 
 
 **Summary**
-In conclusion, the deep learning model was around 73% accurate in predicting whether or not the applicants will be successful if funded. Using a model with greater correlation between input and output would likely result in higher prediction accuracy. This could be achieved by doing additional data cleanup up front, as well as by using a model with different activation functions and iterating until higher accuracy is reached.
+
+In conclusion, the deep learning model was around 73% accurate in predicting whether or not the applicants will be successful if funded. Using a model with greater correlation between input and output would likely result in higher prediction accuracy, as well as potentially eliminating more columns that do not contribute. The data should be cleaned more thoroughly upfront before making more attempts, as well as trying different activations for the hidden layers. 
